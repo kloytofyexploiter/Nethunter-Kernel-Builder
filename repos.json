@@ -1,10 +1,10 @@
 [
   {
     "kernelSource": {
-      "name": "LenovoTabM11Kernel",
-      "repo": "https://github.com/adazem009/kernel_lenovo_tbj606",
-      "tree": "lineage-18.1",
-      "device": "tb-x330xu"
+      "name": "LenovoTabP11Kernel",
+      "repo": "https://github.com/HK4567/android_kernel_lenovo_sm7150",
+      "tree": "lineage-20.0",
+      "device": "tb-j606f"
     },
     "withKernelSU": false,
     "toolchains": [
