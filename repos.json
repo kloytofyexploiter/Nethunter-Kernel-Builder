@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "LenovoTabM11Kernel",
-      "repo": "https://github.com/HK4567/android_kernel_lenovo_sm7150",
+      "repo": "https://download.lenovo.com/consumer/mobiles/tb-j606l_opensource_s000157_201116_row.tar",
       "branch": "Android-10.0",
       "device": "tb-x330xu"
     },
