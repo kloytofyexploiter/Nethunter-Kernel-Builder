@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "LenovoTabM11Kernel",
       "repo": "https://github.com/adazem009/kernel_lenovo_tbj606",
-      "branch": "Lineage-18.1",
+      "tree": "lineage-18.1",
       "device": "tb-x330xu"
     },
     "withKernelSU": false,
